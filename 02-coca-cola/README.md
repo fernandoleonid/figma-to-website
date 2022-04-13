@@ -15,8 +15,8 @@ Clique na imagem para acessar o site:
 
 ### Links
 ---
-* [Projeto no Figma](https://www.figma.com/file/FCeDFOD2CPxCXc2iRGr8xe/figmaToSite-firstLandpage?node-id=0%3A1)
-* [Vídeo aula](https://youtu.be/LvywYjDEK6I)
+* [Projeto no Figma](https://www.figma.com/file/BPGpEl2jcl4DuTgaEylsNW/LIMA---coca-cola?node-id=0%3A1)
+* [Vídeo aula](https://youtu.be/cGrhSy7qhGg)
 
 
 ### Tecnologias
