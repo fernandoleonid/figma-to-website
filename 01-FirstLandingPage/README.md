@@ -10,7 +10,7 @@ São páginas com foco principal na capturar os visitantes, ou seja, é uma ferr
 ---
 Clique na imagem para acessar o site:
 
-[![](../.images/01.gif)](../01-FirstLandingPage/)
+[![](../.images/01.gif)](https://fernandoleonid.github.io/figma-to-website/01-FirstLandingPage/)
 
 
 ### Links
