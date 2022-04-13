@@ -24,7 +24,7 @@ Gostou da ideia? então acompanhe os projetos abaixo e compartilhe:
     </td>
       <td>
         <h3>02 - Coca-Cola</h3>
-        <li><a href="./01-lamp/">Código</a></li>
+        <li><a href="./02-coca-cola/">Código</a></li>
         <li><a href="https://youtu.be/cGrhSy7qhGg">Passo a passo</a></li>
         <a href="https://fernandoleonid.github.io/figma-to-website/02-coca-cola/"><img src="./.images/02.gif" width="400px"></a>
     </td>
