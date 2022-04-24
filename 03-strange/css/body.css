@@ -4,4 +4,10 @@ body{
     url(../img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
+    flex-direction: column;
+    padding: 80px 128px 50px 128px;
 }
+
+
+
