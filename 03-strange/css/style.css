@@ -1,0 +1,7 @@
+body{
+    height: 100vh;
+    background: linear-gradient(90deg, #000, #000D 35%, #0000),
+    url(../img/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
