@@ -1,4 +1,84 @@
 main{
-    background-color: tomato;
     flex-grow: 1;
+    display: flex;
+}
+
+.content-container{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+}
+
+.content-container h1{
+    font-size: 7rem;
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+}
+
+.content-container h1 span{
+    font-size: 2rem;
+    font-weight: 200;
+    transform: translateY(30px)
+}
+
+.movie-title{
+    font-size: 2.6rem;
+    font-style: italic;
+    color: #E62721;
+    transform: translateY(-20px)
+}
+
+.movie-text {
+    width: 550px;
+    font-size: 1.1rem;
+    font-weight: 100;
+}
+
+.movie-button{
+    height: 80px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: 200;
+    border-radius: 10px;
+    background-color: #E62721;
+    margin-top: 30px;
+}
+
+.social-container{
+    width: 48px;
+}
+
+.social-container ul {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+}
+
+.social-container li {
+    height: 48px;
+    width: 48px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: 2px  solid #fff;
+    transition: all 1s;
+}
+
+.social-container i {
+    font-size: 1.5rem;
+}
+
+.social-container li:hover{
+    background-color: #E62721;
+    border-color: #E62721;
 }
