@@ -1,13 +1,34 @@
+html,  body{
+    position: relative;
+    overflow: hidden;
+}
 body{
     height: 100vh;
     background: linear-gradient(90deg, #000, #000D 35%, #0000),
     url(../img/background.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: right;
     display: flex;
     flex-direction: column;
     padding: 80px 128px 50px 128px;
+    animation: zoom 1.5s;
 }
 
+@media (max-width:768px) {
+    body{
+        padding: 30px 30px 25px 30px;
+        background-image: url(../img/background.png);
+        background-color: #0006;
+        background-blend-mode: darken;
+    }
+}
 
-
+@keyframes zoom {
+    0%{
+        transform: scale(3);
+    }
+    100%{
+        transform: scale(1);
+    }
+}

@@ -82,3 +82,27 @@ main{
     background-color: #E62721;
     border-color: #E62721;
 }
+
+@media (max-width:768px) {
+    .content-container{
+        justify-content: flex-end;
+        margin-bottom: 50px;
+    }
+    .content-container h1{
+        font-size: 4rem;
+    }
+    .content-container h1 span{
+        font-size: 1.5rem;
+        transform: translateY(15px)
+    }
+    .movie-title{
+        font-size: 1.45rem;
+        transform: translateY(5px)
+    }
+    .movie-text{
+        display: none;
+    }
+    .social-container{
+        display: none;
+    }
+}
