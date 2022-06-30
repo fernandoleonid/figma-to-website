@@ -21,13 +21,13 @@ Gostou da ideia? então acompanhe os projetos abaixo e compartilhe:
         <h3>01 - Landing Page</h3>
         <li><a href="./01-FirstLandingPage/">Código</a></li>
         <li><a href="https://youtu.be/LvywYjDEK6I">Passo a passo</a></li>
-        <a href="https://fernandoleonid.github.io/figma-to-website/01-FirstLandingPage/"><img src="./.images/01.gif" width="400px"></a>
+        <a href="https://fernandoleonid.github.io/figma-to-website/01-FirstLandingPage/"><img src="./.images/01.gif" width="500px"></a>
     </td>
     <td>
       <h3>02 - Coca-Cola</h3>
       <li><a href="./02-coca-cola/">Código</a></li>
       <li><a href="https://youtu.be/cGrhSy7qhGg">Passo a passo</a></li>
-      <a href="https://fernandoleonid.github.io/figma-to-website/02-coca-cola/"><img src="./.images/02.gif" width="400px"></a>
+      <a href="https://fernandoleonid.github.io/figma-to-website/02-coca-cola/"><img src="./.images/02.gif" width="500px"></a>
     </td>
   </tr>
   <tr>
@@ -35,13 +35,13 @@ Gostou da ideia? então acompanhe os projetos abaixo e compartilhe:
         <h3>03 - Landing Page - Doctor Strange</h3>
         <li><a href="./03-strange/">Código</a></li>
         <li><a href="https://youtu.be/24G8dGNUsXM">Passo a passo</a></li>
-        <a href="https://fernandoleonid.github.io/figma-to-website/03-strange/"><img src="./.images/03.gif" width="400px"></a>
+        <a href="https://fernandoleonid.github.io/figma-to-website/03-strange/"><img src="./.images/03.gif" width="500px"></a>
     </td>
       <td>
         <h3>04 - Login</h3>
         <li><a href="./04-login/">Código</a></li>
         <li><a href="https://youtu.be/-lfa4noP46U">Passo a passo</a></li>
-        <a href="https://fernandoleonid.github.io/figma-to-website/04-login/"><img src="./.images/04.gif" width="400px"></a>
+        <a href="https://fernandoleonid.github.io/figma-to-website/04-login/"><img src="./.images/04.gif" width="500px"></a>
     </td>
   </tr>
 </table>
