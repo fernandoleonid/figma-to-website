@@ -1,0 +1,51 @@
+/* TABLET */
+@media (max-width:960px ){
+
+    .container{
+        grid-template-columns: 1fr;
+    }
+
+    header{
+        margin-top: 30px;
+    }
+
+    .title{
+        grid-column: 1;
+        place-self: start center;
+        transform: translateY(20%);
+    }
+
+    .description{
+        grid-row: 2;
+        grid-column: 1;
+        place-self: center;
+        text-align: center;
+    }
+    .action{
+        grid-row: 2;
+        grid-column: 1;
+        place-self: end center;
+        margin-bottom: 24px;
+    }
+
+    footer{
+        display: none;
+    }
+}
+
+@media (max-width:640px) {
+
+    .description__title{
+        font-size: 10vw;
+    }
+    .description__text {
+        display: none;
+    }
+    .action{
+        width: 100%;
+        font-size: 10vw;
+    }
+    .pikachu-image{
+        width: 90vw;
+    }
+}
