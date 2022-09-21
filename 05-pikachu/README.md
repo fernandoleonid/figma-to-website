@@ -2,6 +2,7 @@
 
  ![](./screenshot/screenshot.png)
 
+[Clique aqui](https://fernandoleonid.github.io/figma-to-website/05-pikachu/) para acessar o projeto.
  ---
  ## Sobre
  Site do tipo landing page para divulgar o jogo Let's Go, Pikachu.
