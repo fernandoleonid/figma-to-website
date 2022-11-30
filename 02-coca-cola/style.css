@@ -1,17 +1,16 @@
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 body{
     display: flex;
     flex-direction: column;
     width: 100vw;
     height: 100vh;
-    background: linear-gradient(#CF2425,#DA6062 50%, #DA6062 60%, #DA3B3F);
+    background:linear-gradient(#CF2425,#DA6062 50%,#DA6062 60%,#DA3B3F);
 }
-
 .background-image{
     position: absolute;
     max-width: 100%;
@@ -24,6 +23,8 @@ body{
     opacity: 50%;
     z-index: -1;
 }
+
+
 
 header{
     height: 100px;
@@ -45,6 +46,7 @@ main{
     align-items: center;
 }
 
+
 .content-text{
     position: absolute;
     color: #FFF;
@@ -55,7 +57,6 @@ main{
     text-align: end;
     margin-right: 24px;
 }
-
 .content-image{
     height: 80vh;
     filter: drop-shadow(0px 200px 20px #0006);
@@ -67,6 +68,7 @@ footer{
     align-items: flex-start;
     margin-right: 75px;
 }
+
 
 @media (max-width:768px) {
     header nav{
@@ -91,3 +93,5 @@ footer{
         margin-right: 25px;
     }
 }
+
+
