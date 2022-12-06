@@ -1,0 +1,44 @@
+main{
+    display: grid;
+    place-content: center;
+}
+.title{
+    font-size: 21vw;
+    color: var(--primary-color);
+    text-shadow: 
+        -4px -4px 0px #fff,
+        4px 4px 0 #fff,
+        -4px 4px 0px #fff,
+        4px -4px 0 #fff,
+        8px 16px 8px #0009;
+    user-select: none;
+    line-height: 60%;
+}
+
+.star-container{
+    place-self: end;
+    user-select: none;
+    display: flex;
+    gap: 16px;
+}
+.star{
+    font-size: 4rem;
+    color: var(--secundary-color);
+    -webkit-text-stroke: 3px var(--primary-color);
+}
+
+.star:last-child{
+    color: var(--tertiary-color);
+}
+
+@media (max-width:1024px) {
+    .title{
+        font-size: 30vw;
+    }
+    .star{
+        font-size: 3rem;
+    }
+    .matchs{
+        margin-top: 32px;
+    }
+}
