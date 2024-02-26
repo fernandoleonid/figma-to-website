@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --color-primary: #2E1012;
+    --color-secondary: #F3CC4D;
+    --color-text-primary: #2E1012;
+    --color-text-secondary: #fff;
+    --font-family: "Indie Flower", cursive;
+}
+
+body  {
+    height: 100vh;
+    background-image: url(./img/background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 90%;
+    background-color: var(--color-primary);
+}
