@@ -17,6 +17,8 @@ ul, ol, li{
 }
 
 body{
+    display: flex;
+    flex-direction: column;
     height: 100vh;
     background-color: #000;
     padding: 64px 120px ;
@@ -56,4 +58,45 @@ nav ul a:hover{
     background-color: var(--primary-color);
     color: #000;
     box-shadow: 0px 0px 12px 4px var(--primary-color);
+}
+
+main  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 120px;
+    flex-grow: 1;
+    font-family: "Kaushan Script", cursive;
+    color: #fff;
+    text-align: center;
+}
+
+.texto-container p:first-child{
+    font-size: 128px;
+    font-weight: 400;
+}
+.texto-container p:last-child{
+    font-size: 96px;
+    font-weight: 400;
+    line-height: 75%;
+}
+.texto-container h2{
+    font-weight: 400;
+    color: var(--primary-color);
+    text-align: right;
+    
+}
+.veja-mais{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 64px;
+    width: 200px;
+    background-color: var(--secundary-color);
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+    color: var(--primary-color);
+    box-shadow: 0px 0px 12px 4px var(--primary-color) ;
+    border-radius: 8px;
 }
